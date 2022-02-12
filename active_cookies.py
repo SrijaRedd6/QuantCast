@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Dsiplaying most active cookies
+Displaying most active cookies
 Created on Sat Feb 12 11:18:37 2022
 @author: srija
 """
