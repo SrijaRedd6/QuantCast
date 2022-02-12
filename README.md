@@ -28,15 +28,11 @@ SAZuXPGUrfbcn5UA
 4sMM2LxV07bPJzwf
 fbcn5UAVanZf6UtG
 
-● You're only allowed to use additional libraries for testing, logging and cli-parsing. There are libraries for
-most languages which make this too easy (e.g pandas) and we’d like you to show off you coding skills.
-● You can assume -d parameter takes date in UTC time zone.
-● You have enough memory to store the contents of the whole file.
-● Cookies in the log file are sorted by timestamp (most recent occurrence is first line of the file).
-We're looking for a concise, maintainable, extendable and correct solution. We're hoping you'll deliver your
-solution as production grade code and demonstrate:
-● good testing practices,
-● knowledge of build systems, testing frameworks, etc.
-● clean coding practices (meaningful names, clean abstractions, etc.)
+INCLUDED FILES:
 
+1."quant.csv" contains data of two columns with cookie adn timestamp.
+2.active_cookies is the main file containing the code for displaying the most active cookies.
+
+EXECUTION STEPS:
+python3.py filename datafilename -d date
 
